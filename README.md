@@ -14,9 +14,11 @@ This Maze Solver Robot was built for a Robotics Comepetition organized by Islami
 
 **Step 2:** At the finishing point it generates an array containing the turns. It generates the shortest path by replacing the three turns into a single short turn. 
 
-```RBL->B```
-```RBS->L```
-```LBR->B```
-```SBR->L```
-```SBS->B```
-```RBR->S```
+```RBL->B``` \
+```RBS->L``` \
+```LBR->B``` \
+```SBR->L``` \
+```SBS->B``` \
+```RBR->S``` \
+
+[img](https://github.com/Mushahid2521/Maze-Solving-Robot/blob/master/maze.png)
