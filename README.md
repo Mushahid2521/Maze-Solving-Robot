@@ -19,6 +19,6 @@ This Maze Solver Robot was built for a Robotics Comepetition organized by Islami
 ```LBR->B``` \
 ```SBR->L``` \
 ```SBS->B``` \
-```RBR->S``` \
+```RBR->S``` 
 
-[img](https://github.com/Mushahid2521/Maze-Solving-Robot/blob/master/maze.png)
+![img](https://github.com/Mushahid2521/Maze-Solving-Robot/blob/master/maze.png)
